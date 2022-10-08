@@ -1,5 +1,0 @@
-$ dig +short github.com
-192.30.253.112
-192.30.253.113
-$ dig +short time.github.net
-10.127.6.10
